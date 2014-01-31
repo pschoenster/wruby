@@ -19,3 +19,8 @@ if __FILE__ == $0
     puts "hello world"
   end
 end
+
+
+# git remote add bozo https://github.com/pschoenster/wruby.git
+# https://github.com/pschoenster/wruby.git
+# git remote add origin https://github.com/username/Hello-World.git
