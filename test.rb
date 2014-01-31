@@ -22,5 +22,6 @@ end
 
 
 # git remote add bozo https://github.com/pschoenster/wruby.git
+# git pull https://github.com/pschoenster/wruby.git
 # https://github.com/pschoenster/wruby.git
 # git remote add origin https://github.com/username/Hello-World.git
